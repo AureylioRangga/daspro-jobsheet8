@@ -41,3 +41,4 @@ PERCOBAAN 3
             selain itu, nilai awal i sebaiknya dimulai dari 1, bukan 0, agar baris pertama hanya memiliki satu bintang.
 3. Silakan commit dan push ke repository Anda.
     jawab : sudah
+ 
