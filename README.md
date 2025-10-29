@@ -36,7 +36,8 @@ PERCOBAAN 3
     jawab : tidak sesuai, karena program belum menampilkan baris baru dan batas loop belum tepat.
 
 2. Jika tidak sesuai, bagian mana saja yang harus diperbaiki/ditambahkan? Jelaskan setiap bagian yang perlu diperbaiki/ditambahkan.
-    jawab : 
-
+    jawab : program perlu menambahkan System.out.println(); di akhir perulangan dalam (inner loop) agar berpindah baris setiap kali selesai mencetak  
+            bintang pada satu baris.
+            selain itu, nilai awal i sebaiknya dimulai dari 1, bukan 0, agar baris pertama hanya memiliki satu bintang.
 3. Silakan commit dan push ke repository Anda.
-    jawab ; 
+    jawab : sudah
